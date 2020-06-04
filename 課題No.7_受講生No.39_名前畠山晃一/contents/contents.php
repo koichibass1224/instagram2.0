@@ -53,7 +53,7 @@
 
 <body>
 
-<a class="top" href="http://localhost:8888/php01/rensyu_index/contents/contents2.php">text</a>
+<a class="top" href="contents2.php">text</a>
 
 <div class="video">
 <input type="button" value="video" id="video_onoff" class="btn btn-info btn-lg"></div>
