@@ -35,7 +35,7 @@
 
 <body>
 
-<a href="http://localhost:8888/php01/rensyu_index/contents/contents.php">top</a>
+<a href="contents.php">top</a>
 
   <div class="s-tbl">  
   <input type="button" value="text" id="text_on" class="btn btn-info btn-lg">
