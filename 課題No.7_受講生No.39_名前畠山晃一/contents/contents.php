@@ -34,7 +34,6 @@
       }
       .s-tbl p:nth-child(2n+1) {
         border-radius: 5px;
-        height:80px;
         background-color: #ccffcc;
       }
       .s-tbl p:nth-child(2n) {
